@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/0c33bfd0-7f67-413a-9f52-c213d7252a55)
+![image](https://github.com/user-attachments/assets/bb901eec-443f-404b-86c4-cb87f36fe630)
+![image](https://github.com/user-attachments/assets/948a2072-2dd2-4866-971c-601375acf8b5)
 # ML-LAB
 All the Programs of 6th Sem ML Lab with their output in different steps. These Programs include Find-S & Candidate-Elimination Algorithms, Supervised Learning & Unsupervised learning algorithms such as KNN, ANN, Decision Trees, Naive Bayes Classifier, Bayesian Networks, K-Means Clustering etc.
 ## Introduction to RTU Machine Learning Lab
