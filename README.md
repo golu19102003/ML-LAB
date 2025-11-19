@@ -6,6 +6,7 @@
 
 # ML-LAB
 All the Programs of 6th Sem ML Lab with their output in different steps. These Programs include Find-S & Candidate-Elimination Algorithms, Supervised Learning & Unsupervised learning algorithms such as KNN, ANN, Decision Trees, Naive Bayes Classifier, Bayesian Networks, K-Means Clustering etc.
+
 ## Introduction to RTU Machine Learning Lab
 The Rajasthan Technical University (RTU) Machine Learning Lab is designed to provide students with practical, hands-on experience in understanding and implementing core machine learning algorithms and concepts. This lab bridges the gap between theoretical knowledge and real-world applications by enabling students to design, develop, and evaluate machine learning models using programming languages like Java and Python.
 
